@@ -1,0 +1,4 @@
+First day we covered what is computer networks and its basics .
+And what is a hug ,switch ,router and what are all the difference between these.
+And we have learnt what is IP address and Mac address .
+and how to determine the destination mac with the help of the switch and router

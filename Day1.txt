@@ -1,0 +1,5 @@
+In the first day we learnt about basics of the computer network such as what is IP Address Mac Address .
+what is meant by hub ,switch ,router and what are all the difference between them .
+Next we learnt in deep about what is broadcasting what is subnet mask and how to determine the IP address with the
+hepl of the subnet mask . 
+And we gone through how to get Mac address of the destination with the help of destination ip and source ip & mac Adddress.

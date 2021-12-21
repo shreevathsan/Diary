@@ -1,3 +1,0 @@
-First ay we learnt about what is IP Address Mac Address and what are all the difference between 
-switch ,router, hub .
-And howto determine the Mac address of the destination with the help of the switch and the router
